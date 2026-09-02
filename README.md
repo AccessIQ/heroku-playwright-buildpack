@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This was forked from the archived buildpack to add Heroku 24 support.
+> See https://github.com/playwright-unofficial-community-archive/heroku-playwright-buildpack/pull/32
+
 # Heroku Playwright Buildpack
 
 This buildpack installs all the needed dependencies to use Playwright with Chromium and Firefox on Heroku.
